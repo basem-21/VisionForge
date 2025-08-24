@@ -1,0 +1,15 @@
+torch
+diffusers
+transformers
+accelerate
+safetensors
+gradio
+peft
+requests
+numpy
+opencv-python-headless
+controlnet-aux
+realesrgan
+gfpgan
+Pillow
+huggingface_hub
