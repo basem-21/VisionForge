@@ -3,9 +3,6 @@
 **VisionForge** is a powerful local AI application for generating, editing, and enhancing images through an intuitive Gradio web interface.  
 It transforms your ideas into visuals using cutting-edge generative AI models with support for text-to-image, image-to-image, inpainting, ControlNet, and more.
 
-![VisionForge Demo](https://i.imgur.com/nJ2uV3S.png)
-*(Replace with your own screenshot of the interface!)*
-
 ---
 
 ## ✨ Features
