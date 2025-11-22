@@ -39,7 +39,7 @@ It transforms your ideas into visuals using cutting-edge generative AI models wi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/VisionForge.git
+git clone https://github.com/basem-21/VisionForge.git
 cd VisionForge
 ```
 
